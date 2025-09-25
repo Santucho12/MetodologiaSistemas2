@@ -145,7 +145,7 @@ database/
 └── seed.sql                      # Datos de prueba
 
 tests/
-└── reserva.test.js               # Pruebas unitarias
+└── reserva.test.js               # definir que prueba usaremos
 
 README.md
 ```
