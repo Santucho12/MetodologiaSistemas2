@@ -140,6 +140,7 @@ frontend/
     └── services/
         └── reservaService.js    # Conexión con backend
 
+tests/
 database/
 ├── init.sql                      # Creación de tablas
 └── seed.sql                      # Datos de prueba
